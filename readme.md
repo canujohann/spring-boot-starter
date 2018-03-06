@@ -1,10 +1,10 @@
-# Spring boot sample
+# Spring boot sample for JAVA CoP
 
 ### Basic sample
 
 #### build.gradle file
 
-Add in the rot of your project the build.gradle file below :
+Add in the root of your project the build.gradle file below :
 
 > build.gradle
 
