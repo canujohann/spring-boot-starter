@@ -110,15 +110,6 @@ Finally add a view file in the resources/templates folder and you're done !
 
 Time to deploy it in localhost. You can run the command `gradle bootrun` or call the 'bootrun' task from your IDE :
 
-![bootrun with intellij](https://imgur.com/a/z20aN)
+![bootrun with intellij](https://i.imgur.com/RNYnPXB.png)
 
-### Handy commands
-
-```gradle
-
-# Run embedded application server in localhost
-gradle bootRun
-
-# Build a jar file and run it
-gradle build && java -jar build/libs/gs-serving-web-content-0.1.0.jar
-```
+You can also build your application as jar file and run it with `gradle build && java -jar build/libs/gs-serving-web-content-0.1.0.jar` .
