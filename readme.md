@@ -106,6 +106,12 @@ Finally add a view file in the resources/templates folder and you're done !
 </html>
 ```
 
+### Build & deploy in localhost
+
+Time to deploy it in localhost. You can run the command `gradle bootrun` or call the 'bootrun' task from your IDE :
+
+![bootrun with intellij](https://imgur.com/a/z20aN)
+
 ### Handy commands
 
 ```gradle
